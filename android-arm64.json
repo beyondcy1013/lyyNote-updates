@@ -1,12 +1,12 @@
 {
-  "version": "0.1.65",
+  "version": "0.1.66",
   "minimumSupportedVersion": "0.1.0",
   "mandatory": false,
-  "releaseNotes": "lyyNote 0.1.65",
-  "publishedAt": "2026-08-23T13:20:53Z",
+  "releaseNotes": "lyyNote 0.1.66",
+  "publishedAt": "2026-08-29T04:34:46Z",
   "platform": "android",
   "arch": "arm64",
-  "downloadUrl": "https://github.com/beyondcy1013/lyyNote-updates/releases/download/v0.1.65/lyyNote-0.1.65.apk",
-  "sha256": "c8a7b95453cbadfa547c38f80d0c1980938079a4ace45594347b303f4172d9e8",
-  "size": 9496065
+  "downloadUrl": "https://github.com/beyondcy1013/lyyNote-updates/releases/download/v0.1.66/lyyNote-0.1.66.apk",
+  "sha256": "929a577323016f98e956d832384197f370d98f48214bcef9d668191ebd030dd7",
+  "size": 9504257
 }
