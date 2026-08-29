@@ -1,0 +1,12 @@
+{
+  "version": "0.1.50",
+  "minimumSupportedVersion": "0.1.0",
+  "mandatory": false,
+  "releaseNotes": "lyyNote 0.1.50",
+  "publishedAt": "2026-08-17T14:34:41Z",
+  "platform": "windows",
+  "arch": "x86_64",
+  "downloadUrl": "https://github.com/beyondcy1013/lyyNote-updates/releases/download/v0.1.50/lyyNote-0.1.50-windows-x86_64.exe",
+  "sha256": "be2103f3f468fcafd3689c2d76afa4b97fc71ec2397b7ec4337a7321347a815a",
+  "size": 2148743
+}
